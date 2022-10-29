@@ -30,7 +30,7 @@ while (True):
 		elif (choice == 'N' or choice == 'n'):
 			break
 		else:
-			print("\nPlease Enter Y/N.")
+			print("\nPlease Enter Y/N")
 
 	else:
 		print("\nNot a valid option")
